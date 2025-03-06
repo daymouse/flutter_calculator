@@ -1,0 +1,22 @@
+name: calculator_flutter
+description: A simple calculator app
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  expressions: ^0.2.5
+  flutter_native_splash: ^2.4.2
+  provider: ^6.1.0
+
+flutter:
+  uses-material-design: true
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: "lib/asset/callcu-removebg-preview.png" 
