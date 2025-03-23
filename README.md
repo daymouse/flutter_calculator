@@ -1,16 +1,27 @@
 # calculator_flutter
 
-A new Flutter project.
+## Deskripsi 
 
-## Getting Started
+Aplikasi kalkulator sederhana berbasis Flutter dengan fitur dasar perhitungan matematika dasar (+, -, *, /), riwayat hitungan, dan halaman profil. Aplikasi ini dibuat fleksibel, memungkinkan untuk dibuka dalam perangkat mobile maupun dekstop. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Software Yang Digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter
+- dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Instalasi dan cara menjalankan aplikasi
+
+- pastikan talah menginstal Flutter SDK
+- ketikan perintah "git clone https://github.com/daymouse/flutter_calculator" pada bash
+- masuk ke folder dengan ketikan "cd nama_repo"
+- ketik "flutter pub get" untuk mengunduh Dependencies
+- ketik "flutter run" untuk menjalankan aplikasi
+
+## Demo aplikasi
+
+
+https://github.com/user-attachments/assets/cb87f70d-77a2-49e5-a3ef-332fc04f8116
+
+## create by Dzulfikar Lintang S/8/XI RPL 2 (2025)
+
